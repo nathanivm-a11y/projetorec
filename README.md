@@ -36,5 +36,5 @@ Se a gente fosse dar continuidade nesse projeto, eu sugeriria algumas melhorias:
 2. Criar uma API para que o sistema da empresa pudesse consultar o risco de um cliente em tempo real.
 
 ---
-Apresentação em Vídeo:
+Apresentação em Vídeo: https://drive.google.com/drive/folders/1EANudomSZPve6Nd9QjAAxBm9hRvrM8rj?usp=drive_link
 
